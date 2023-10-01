@@ -4,9 +4,17 @@
 -Coordinates work between mutiple developers 
 -who made what changes anda when
 - COMANDOS BASICOS- DIRECTAMENTE CON EL SISTEMA OPERATIVO
-- git init (para oder decirque vamos a comezar a utilizar git)
-- git add(Es para poder pasar de working directory a stating area)
+-git init (para oder decirque vamos a comezar a utilizar git)
+        -master-verify in git bash 
+
+-git add(Es para poder pasar de working directory a stating area)
+        -It command add
+        git add namefile o namefolder
+
 -git status(para ver en que estado se encuentra los estados)
+        git status (commentary-> con esto podemos ver que files or folders estan agregos)
+ 
+
 -git  commit( es la primera foto de mi codigo)
 -git pull (vemos los  cambios que hicieron los demas desarrolladores)
 -git push(para poder subir a nuestro repositorio y que los demas desarrolladores puedan verlo)
