@@ -17,7 +17,11 @@
 
 -git  commit( es la primera foto de mi codigo y en esto punto nos llevara a un termianl que de bin o unix y 
             para poder salir de eso tendremos que poner el mensaje que va en el commint en la primera linea y depues presiona esc y luego escribir :wq )
--git pull (vemos los  cambios que hicieron los demas desarrolladores)
+            - nos da numeros a los costados, eso  quieres decir las versiones de nuestro programa
+
+git log (para ver todos los commits que hemos creado) 
+
+            -git pull (vemos los  cambios que hicieron los demas desarrolladores)
 -git push(para poder subir a nuestro repositorio y que los demas desarrolladores puedan verlo)
 
 */
